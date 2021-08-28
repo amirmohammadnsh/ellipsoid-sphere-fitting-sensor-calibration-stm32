@@ -6,7 +6,7 @@ Default project files and other settings related to peripheralls such as gpio, .
 # Notes
 1. The library calculates Offsets, Gains and Rotation Matrix Refinement.
 2. It calculates eigenvalues and eigenvector based on JACOBI_EIGENVALUE which is developed by John Burkardt in C.
-3. This library is based on "Reference implementation" script section "%rotated ellipsoid" and "Rotation matrix refinement" script.
+3. This library is based on "Reference implementation" script, section "%rotated ellipsoid" and "Rotation matrix refinement" script, from this document https://tinyurl.com/jfs3v29s.
   
 # How To Use ?
 1. Add defined symbols from "Preprocessor_Defined_Symbols.jpg" to your project.
