@@ -15,3 +15,6 @@ Default project files and other settings related to peripheralls such as gpio, .
 4. Place "ellipsoidfit.c" in your Core/Src/ project directory.
 5. Place "ellipsoidfit.h" in your Core/Inc/ project directory.
 6. View main.c to know how to call the method and pass your uncalibrated data to it. 
+
+
+![alt text](https://github.com/amirmohammadnsh/ellipsoid-sphere-fitting-sensor-calibration-stm32/blob/242cd9cf45f5eee88361fdde871b98b525ff5733/stmstudioResult_72MHZ.jpg)
