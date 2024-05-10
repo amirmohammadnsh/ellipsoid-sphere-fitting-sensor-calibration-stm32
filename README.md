@@ -18,3 +18,16 @@ Default project files and other settings related to peripheralls such as gpio, .
 
 
 ![alt text](https://github.com/amirmohammadnsh/ellipsoid-sphere-fitting-sensor-calibration-stm32/blob/242cd9cf45f5eee88361fdde871b98b525ff5733/stmstudioResult_72MHZ.jpg)
+
+# Paper
+If you use this implementation in your article, please cite our paper:
+```
+@article{
+  title={Clinical implementation of a bionic hand controlled with kineticomyographic signals},
+  author = {Ali Moradi, Hamed Rafiei, Mahla Daliri, Mohammad-R. Akbarzadeh-T., Alireza Akbarzadeh, Amir-M. Naddaf-Sh and Sadra Naddaf-Sh},
+  doi = {10.1038/s41598-022-19128-1},
+  url = {https://doi.org/10.1038/s41598-022-19128-1},
+  journal = {Scientific Reports},
+  year = {2022}
+}
+```
